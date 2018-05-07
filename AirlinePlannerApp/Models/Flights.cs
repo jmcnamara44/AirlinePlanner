@@ -72,6 +72,6 @@ namespace AirlinePlannerApp.Models
         }
         return cities;
       }
-
+      public List<
     }
   }
